@@ -14,7 +14,7 @@
     </a>
 </p>
 
-Hey, my name is Rafael and I'm a __backend developer__  based in __Germany__ 🇩🇪.
+Hey, my name is Rafael and I'm a 21 years old brazilian 🇧🇷 __backend developer__  based in __Germany__ 🇩🇪.
 
 I love learning about new techs, being a heavy Medium and HN reader. I also really enjoy competitive programming and solving problems on a daily basis 👨‍💻. 
 
@@ -22,6 +22,6 @@ You should definitely take a look on my Github projects 💻, [check them out](h
 
 ---
 
-* 💼 Currently working at [LeadSimple](https://www.leadsimple.com/) <br/>
+* 💼 Currently working at [LeadSimple](https://www.leadsimple.com/), with React+Typescript, Ruby on Rails + GraphQL and Phoenix <br/>
 * 🔖 Find out more about me in [my website](https://www.rafaaudibert.dev)<br/>
 * 📝 You can also read my articles in [my blog](https://blog.rafaaudibert.dev)<br/>
