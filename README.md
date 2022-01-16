@@ -15,6 +15,7 @@
 </p>
 
 Hey, my name is Rafael and I'm a 21 years old brazilian 🇧🇷 __backend developer__, based half of the time in __Porto Alegre, Brazil__ 🤠, half of the time through the world 🗺️.
+
 I love learning about new techs, being a heavy Medium and HN reader. I also really enjoy competitive programming and solving problems on a daily basis 👨‍💻. 
 
 You should definitely take a look on my Github projects 💻, [check them out](https://github.com/rafaeelaudibert?tab=repositories)!
