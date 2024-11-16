@@ -14,14 +14,14 @@
     </a>
 </p>
 
-Hey, my name is Rafael and I'm a 24 years old brazilian 🇧🇷 __backend developer__, based half of the time in __Porto Alegre, Brazil__ 🤠, half of the time through the world 🗺️.
+Hey, my name is Rafael and I'm a 24 years old Brazilian 🇧🇷 __backend developer__, based half of the time in __Porto Alegre, Brazil__ 🤠, half of the time through the world 🗺️.
 
 I love learning about new techs, being a heavy Medium and HN reader. I also really enjoy competitive programming and solving problems on a daily basis 👨‍💻. 
 
-You should definitely take a look on my Github projects 💻, [check them out](https://github.com/rafaeelaudibert?tab=repositories)!
+You should definitely take a look at my Github projects 💻, [check them out](https://github.com/rafaeelaudibert?tab=repositories)!
 
 ---
 
-* 💼 Currently working at [LeadSimple](https://www.leadsimple.com/), with React+Typescript, Ruby on Rails + GraphQL and Phoenix <br/>
+* 💼 Currently working at [PostHog 🦔](https://posthog.com/), with React+Typescript, Python + Django, Clickhouse, and much more, in an incredible product! <br/>
 * 🔖 Find out more about me in [my website](https://www.rafaaudibert.dev)<br/>
 * 📝 You can also read my articles in [my blog](https://blog.rafaaudibert.dev)<br/>
