@@ -24,4 +24,4 @@ You should definitely take a look at my Github projects 💻, [check them out](h
 
 * 💼 Currently working at [PostHog 🦔](https://posthog.com/), with React+Typescript, Python + Django, Clickhouse, and much more, in an incredible product! <br/>
 * 🔖 Find out more about me in [my website](https://www.rafaaudibert.dev)<br/>
-* 📝 You can also read my articles in [my blog](https://blog.rafaaudibert.dev)<br/>
+* 📝 You can also read my articles in [my blog](https://www.rafaaudibert.dev/blog)<br/>
