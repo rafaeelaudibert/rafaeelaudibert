@@ -1,4 +1,4 @@
-<h1 align="center">Hi there mate 👋</h1>
+<h1 align="center">Hi there 👋</h1>
 
 <p align="center">
     <a href="https://br.op.gg/summoner/userName=tyg+yeux">
