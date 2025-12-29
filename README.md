@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋</h1>
 
 <p align="center">
-    <a href="https://br.op.gg/summoner/userName=tyg+yeux">
+    <a href="https://op.gg/lol/summoners/br/Rafa-AUDI">
         <img src="https://img.shields.io/badge/lets%20play%20-%23FF0000.svg?&style=for-the-badge&logo=riot-games">
     </a>
     &nbsp;&nbsp;&nbsp;
