@@ -14,11 +14,11 @@
     </a>
 </p>
 
-Hey, my name is Rafael and I'm a 25-year-old Brazilian 🇧🇷 __backend developer__, based half of the time in __Porto Alegre, Brazil__ 🤠, half of the time around the world 🗺️.
+Hey, my name is Rafael, and I'm a 26-year-old Brazilian 🇧🇷 __backend developer__, based half of the time in __Porto Alegre, Brazil__ 🤠, half of the time around the world 🗺️.
 
 I love learning about new tech - I consider myself an avid HN reader. I also really enjoy competitive programming and solving problems on a daily basis 👨‍💻. 
 
-You should definitely take a look at my Github projects 💻, [check them out](https://github.com/rafaeelaudibert?tab=repositories)!
+You should definitely take a look at my GitHub projects 💻, [check them out](https://github.com/rafaeelaudibert?tab=repositories)!
 
 ---
 
